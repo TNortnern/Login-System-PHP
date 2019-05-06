@@ -1,0 +1,47 @@
+
+<codestructure version="1.4">
+<phptree>
+<treenode node="./models/database.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f9;25;30;25;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./models/user_db.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f9;39;29;39;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/addForm.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f11;49;30;49;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/delete.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f11;54;29;54;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/footer.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f9;64;27;64;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/header.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f9;26;27;26;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/login.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index.php;f9;31;26;31;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/modify.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f11;51;29;51;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/register.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index.php;f9;34;29;34;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="./views/user_list.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index3.php;f10;45;31;45;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Cheech-s-Pizza-3/index.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index2.php;f9;19;35;19;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="models/database.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index.php;f9;1;28;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="models/logindb.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index.php;f9;5;27;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="models/signupdb.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\php\session\index.php;f9;3;28;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="addUser;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\user_db.php;f0;27;1;53;;;;vpos;;v;;a;;r;;d0,28;;b0,0;;m0;;e">
+</treenode>
+<treenode node="deleteUser;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\user_db.php;f0;88;1;102;;;;vpos;;v;;a;;r;;d0,89;;b0,0;;m0;;euserID;;p">
+</treenode>
+<treenode node="getAllUsers;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\user_db.php;f4;6;5;22;;;;vpos;;v;;a;;r;;d26,6;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getUser;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\user_db.php;f0;105;5;116;;;;vpos;;v;;a;;r;;d25,105;;b0,0;;m0;;euserID;;p">
+</treenode>
+<treenode node="registerUser;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\signupdb.php;f0;2;1;51;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="updateEmployee;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\user_db.php;f0;56;1;85;;;;vpos;;v;;a;;r;;d0,57;;b0,0;;m0;;euserID;;p">
+</treenode>
+<treenode node="userLogin;PHP:Function Name;C:\xampp\htdocs\dashboard\php\session\models\logindb.php;f0;1;1;51;;;;vpos;;v;;a;;r;;d0,2;;b0,0;;m0;;e">
+</treenode>
+</phptree>
+</codestructure>

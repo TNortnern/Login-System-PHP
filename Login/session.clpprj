@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\dashboard\php\session\session.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/dashboard/php/session]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/dashboard/php/session]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\modify.php"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\models\user_db.php"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\addForm.php"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\register.php"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\user_display.php"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\user_list.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\user_list.php" crc="1555098342300"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\user_display.php" crc="1555098346987"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\register.php" crc="1554924594456"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\modify.php" crc="1555097756870"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\login.php" crc="1554727697386"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\header.php" crc="1554900283494"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\footer.php" crc="1554727697355"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\employee_list.php" crc="1554727697339"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\delete.php" crc="1554908200766"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\views\addForm.php" crc="1555097752012"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\models\user_db.php" crc="1554926241928"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\models\signupdb.php" crc="1554925516233"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\models\logindb.php" crc="1554727697246"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\models\database.php" crc="1554727697230"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\css\styles.css" crc="1554727697214"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\js\uikit.min.js" crc="1554727697199"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\js\uikit.js" crc="1554727697152"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\js\uikit-icons.min.js" crc="1554727697105"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\js\uikit-icons.js" crc="1554727697089"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\js\pizza.js" crc="1554727697058"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\css\uikit.min.css" crc="1554727696886"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\css\uikit.css" crc="1554727696824"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\css\uikit-rtl.min.css" crc="1554727696808"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\css\uikit-rtl.css" crc="1554727696761"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\css\styles.css" crc="1554727696746"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\index.php" crc="1554727694152"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\contact.html" crc="1554727694120"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\aboutus.html" crc="1554727694105"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\Cheech-s-Pizza-3\_config.yml" crc="1554727694183"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\my_guitar_shop1.sql" crc="1554728639813"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\index3.php" crc="1554908295374"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\index2.php" crc="1554908783180"/>
+  <file name="C:\xampp\htdocs\dashboard\php\session\index.php" crc="1554727694042"/>
+ </filescache>
+</project>

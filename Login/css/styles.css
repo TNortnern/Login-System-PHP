@@ -1,0 +1,15 @@
+
+header {border-bottom: 2px solid black;text-align: center}
+
+footer{ border-top: 2px solid black;clear:both;}
+
+section {
+    float:left;
+    width: 40%;
+    padding: 15px;
+}
+.fas {color:yellow; text-shadow: 2px 2px 5px black}
+
+
+
+
